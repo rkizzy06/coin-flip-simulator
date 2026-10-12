@@ -1,0 +1,10 @@
+# Build output
+coin_flip
+coin_flip.exe
+*.o
+*.out
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
